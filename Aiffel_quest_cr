@@ -384,10 +384,3 @@ done : 'done' 용어가 cmdlet, 함수, 스크립트 파일 또는 실행할 수
 PS C:\Users\lch01\Aiffel_quest_cr> git add .
 PS C:\Users\lch01\Aiffel_quest_cr> git commit -m "깃허브에서 앞으로 아이펠에서 사용할 레포지토리를 생성합니다"
 PS C:\Users\lch01\Aiffel_quest_cr> git remote add origin https://github.com/tswhy1/Aiffel_quest_cr.git
-
-
-
-
-
-
-
