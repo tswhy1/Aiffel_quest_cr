@@ -9,101 +9,101 @@
 ```
 .
 ├── Exploration
-│   ├── Ex01
-│   │   ├── Ex01.ipynb
+│   ├── Ex1
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Ex02
-│   │   ├── Ex02.ipynb
+│   ├── Ex2
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Ex03
-│   │   ├── Ex03.ipynb
+│   ├── Ex3
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Ex04
-│   │   ├── Ex04.ipynb
+│   ├── Ex4
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Ex05
-│   │   ├── Ex05.ipynb
+│   ├── Ex5
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Ex06
-│   │   ├── Ex06.ipynb
+│   ├── Ex6
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   └── Ex07
-│       ├── Ex07.ipynb
+│   └── Ex7
+│       ├── untitled.ipynb
 │       └── README.md
 ├── Flutter
-│   ├── Fl01
-│   │   ├── Fl01.ipynb
+│   ├── Fl1
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Fl02
-│   │   ├── Fl02.ipynb
+│   ├── Fl2
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Fl03
-│   │   ├── Fl03.ipynb
+│   ├── Fl3
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Fl04
-│   │   ├── Fl04.ipynb
+│   ├── Fl4
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Fl05
-│   │   ├── Fl05.ipynb
+│   ├── Fl5
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   └── Fl06
-│       ├── Fl06.ipynb
+│   └── Fl6
+│       ├── untitled.ipynb
 │       └── README.md
 ├── MainQuest
-│   ├── Quest01
-│   │   ├── Quest01.ipynb
+│   ├── Quest1
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Quest02
-│   │   ├── Quest02.ipynb
+│   ├── Quest2
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Quest03
-│   │   ├── Quest03.ipynb
+│   ├── Quest3
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Quest04
-│   │   ├── Quest04.ipynb
+│   ├── Quest4
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Quest05
-│   │   ├── Quest05.ipynb
+│   ├── Quest5
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Quest06
-│   │   ├── Quest06.ipynb
+│   ├── Quest6
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Quest07
-│   │   ├── Quest07.ipynb
+│   ├── Quest7
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   └── Quest08
-│       ├── Quest08.ipynb
+│   └── Quest8
+│       ├── untitled.ipynb
 │       └── README.md
 ├── Python
-│   ├── Py01
-│   │   ├── Py01.ipynb
+│   ├── Py0
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Py02
-│   │   ├── Py02.ipynb
+│   ├── Py1
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Py03
-│   │   ├── Py03.ipynb
+│   ├── Py2
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Py04
-│   │   ├── Py04.ipynb
+│   ├── Py3
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Py05
-│   │   ├── Py05.ipynb
+│   ├── Py4
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Py06
-│   │   ├── Py06.ipynb
+│   ├── Py5
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Py07
-│   │   ├── Py07.ipynb
+│   ├── Py6
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Py08
-│   │   ├── Py08.ipynb
+│   ├── Py7
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Py09
-│   │   ├── Py09.ipynb
+│   ├── Py8
+│   │   ├── untitled.ipynb
 │   │   └── README.md
-│   └── Py10
-│       ├── Py10.ipynb
+│   └── Py9
+│       ├── untitled.ipynb
 │       └── README.md
 └── README.md
 ```
