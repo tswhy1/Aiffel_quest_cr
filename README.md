@@ -21,15 +21,11 @@
 │   ├── Ex4
 │   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Ex5
-│   │   ├── untitled.ipynb
-│   │   └── README.md
-│   ├── Ex6
-│   │   ├── untitled.ipynb
-│   │   └── README.md
-│   └── Ex7
+│   └── Ex5
 │       ├── untitled.ipynb
 │       └── README.md
+│
+│
 ├── Flutter
 │   ├── Fl1
 │   │   ├── untitled.ipynb
@@ -43,12 +39,11 @@
 │   ├── Fl4
 │   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Fl5
-│   │   ├── untitled.ipynb
-│   │   └── README.md
-│   └── Fl6
+│   └── Fl5
 │       ├── untitled.ipynb
 │       └── README.md
+│
+│   
 ├── MainQuest
 │   ├── Quest1
 │   │   ├── untitled.ipynb
@@ -62,18 +57,11 @@
 │   ├── Quest4
 │   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Quest5
-│   │   ├── untitled.ipynb
-│   │   └── README.md
-│   ├── Quest6
-│   │   ├── untitled.ipynb
-│   │   └── README.md
-│   ├── Quest7
-│   │   ├── untitled.ipynb
-│   │   └── README.md
-│   └── Quest8
+│   └── Quest5
 │       ├── untitled.ipynb
 │       └── README.md
+│
+│       
 ├── Python
 │   ├── Py0
 │   │   ├── untitled.ipynb
@@ -90,20 +78,9 @@
 │   ├── Py4
 │   │   ├── untitled.ipynb
 │   │   └── README.md
-│   ├── Py5
-│   │   ├── untitled.ipynb
-│   │   └── README.md
-│   ├── Py6
-│   │   ├── untitled.ipynb
-│   │   └── README.md
-│   ├── Py7
-│   │   ├── untitled.ipynb
-│   │   └── README.md
-│   ├── Py8
-│   │   ├── untitled.ipynb
-│   │   └── README.md
-│   └── Py9
+│   └── Py5
 │       ├── untitled.ipynb
 │       └── README.md
+│   
 └── README.md
 ```
